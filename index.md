@@ -13,6 +13,8 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
+<big><b style='color:red;'><a href="https://mathai2025.github.io/">The 5th MATH-AI workshop</a> will co-locate with NeurIPS 2025!</b></big>
+
 # Previous MATH-AI Workshops
 
 <div class="container" style="margin-bottom: 10px;"></div>
